@@ -8,4 +8,4 @@ Backend:Java(Spring rest services)
 
 any assistance or feature development on this project you may contact to my mail id:sheikabdullahitian@gmail.com
 
-Note:This is still in beta level not recommended for complete / critical system.
+Note:This is still in beta level and not recommended for complete / critical system.
